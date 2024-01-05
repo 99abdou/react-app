@@ -17,9 +17,7 @@ const Card = () => {
          <main className="mt-5 pt-3">
       <div className="container-fluid">
         <div className="row">
-          <div className="col-md-12">
-            <h4>Dashboard</h4>
-          </div>
+
         </div>
         <div className="row">
           <div className="col-md-12">
@@ -296,6 +294,7 @@ const Card = () => {
 </div>
       </div>
           </div>
+          
     </main>
     </>
   )
